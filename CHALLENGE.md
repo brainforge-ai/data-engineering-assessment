@@ -2,7 +2,7 @@
 
 This challenge evaluates ingestion, transformation, orchestration, and database design using **Shopify-style data** (customers, orders, products) in the `DATA/` folder. Use the metadata docs in `DATA/` to understand the JSONL structure.
 
-**Deliverables:** Documentation and implementation as described below. Do not submit code for the challenge instructions themselves; implement the tasks and document your choices.
+**Deliverables:** Working implementation plus documentation. You will write code, SQL, configs, and docs as needed — use any tools and languages you prefer.
 
 ---
 
@@ -130,9 +130,8 @@ Provide:
 
 ---
 
-## 7. Out of Scope (Do Not Implement)
+## 7. Out of Scope
 
-- No code generation for the challenge text itself.  
 - No requirement to deploy Airbyte or Postgres to a cloud provider; local or Docker is sufficient.  
 - No specific BI tool setup; the “BI tool” role is for Postgres permissions only.
 
