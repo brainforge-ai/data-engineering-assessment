@@ -120,8 +120,8 @@ Provide:
 
 ## 6. Deliverables Checklist
 
-- [ ] Airbyte running and documented; three JSONL streams ingested into Postgres raw layer.  
-- [ ] Postgres roles and RBAC: developer, ingestion tool, transformation tool, BI tool — documented and (optionally) scripted.  
+- [ ] Airbyte running and documented; three JSONL streams ingested into Postgres raw layer. Showcase in final presentation. 
+- [ ] Postgres roles and RBAC: developer, ingestion tool, transformation tool, BI tool — documented and scripted.  
 - [ ] dbt project with staging vs production targets and staging models.  
 - [ ] One order summary mart (grain and columns documented).  
 - [ ] At least one dbt test and model description.  
